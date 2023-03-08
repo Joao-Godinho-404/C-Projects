@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678254198 source:c:\users\phantom\desktop\c\projetos\projetoproposto\main.c
+	<stdio.h>
+	<stdlib.h>
+
