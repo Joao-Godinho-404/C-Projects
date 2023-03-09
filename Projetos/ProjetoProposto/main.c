@@ -10,5 +10,6 @@ int main()
     scanf("%s", &y);            /*Here on Function Scan Formatted i used "%s" to read string type
                                 And &y because its the only way i know to "appoint" to my variable*/
     printf("%s", &y);           //Here the same, but with print function
+                                //Need to learn more
     return 0;
 }
